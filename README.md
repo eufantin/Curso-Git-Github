@@ -32,7 +32,33 @@ Lista de tarefas: - [ ]  |-
 - [x] teste 2
 ***
 ![Moleton_Preto_1](https://github.com/user-attachments/assets/cc507e3e-28c1-46f1-9786-827ea7c2c2e7)
-
+***
 Para adicionar link clicável: [] - frase () - link 
 
 [Acesse meu GitHub:](https://github.com/eufantin)
+***
+
+Tabela: nome das colunas apenas usar o |, dados da tabela usar o | a cada coluna - 
+
+Num | Nome | Nota
+---|---|---|
+1 | Victor | 10
+2 | Fafa | 9,5
+***
+Monoespaçamento: 1xCráse (começo e fim da frase) -  `teste`
+***
+Parte de cógido: 3xCráse linha 1, linha debaixo desenvolve o código, linha abaixo mais 3xCráse - 
+
+```
+print('gudemorne')
+```
+***
+Emoji: dois pontos + nome emoji - :avocado:
+***
+Marcação de pessoa(perfil): @eufantin
+***
+Resposta: > - 
+> teste
+
+testado
+***
