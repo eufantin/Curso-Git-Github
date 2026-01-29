@@ -8,7 +8,7 @@ alteração direta pelo github
 
 Negrito: 2x* ou 2x_ - **teste** | __teste__
 ***
-Linha: 3x* - 
+Linha: 3x* (apenas)- 
 ***
 Titulos nível 1, 2 e 3: 1x, 2x  ou 3x# (apenas no começo da palavra)-
 # teste1
